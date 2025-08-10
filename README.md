@@ -1,13 +1,13 @@
 # IBM-SkillsBuild-Internship-Project
 # Network Intrusion Detection System using Machine Learning
 
-[cite_start]This repository contains the final project for the **IBM SkillsBuild 4-Weeks Internship on AI & Cloud Technologies**. The project focuses on building a robust machine learning model to detect and classify cyber-attacks from network traffic data.
+This repository contains the final project for the **IBM SkillsBuild 4-Weeks Internship on AI & Cloud Technologies**. The project focuses on building a robust machine learning model to detect and classify cyber-attacks from network traffic data.
 
 ---
 
 ## Project Overview
 
-The goal of this project is to create an effective Network Intrusion Detection System (NIDS). [cite_start]The system analyzes network connection features to distinguish between normal, legitimate traffic and malicious intrusions, providing an essential layer of security for communication networks. 
+The goal of this project is to create an effective Network Intrusion Detection System (NIDS). The system analyzes network connection features to distinguish between normal, legitimate traffic and malicious intrusions, providing an essential layer of security for communication networks. 
 
 ### **Problem Statement**
 A robust network intrusion detection system (NIDS) using machine learning. The 
